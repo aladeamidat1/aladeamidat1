@@ -1,11 +1,11 @@
-# Hi there! 👋
+ Hi there! 👋
 ----
 
 Welcome to my GitHub profile! I'm Amidat a Software Engineer with 1year of experience in building innovative and impactful software solutions. I enjoy solving complex problems, learning new technologies, and collaborating with other enginners.
 
 ----
 
-##🌟 About Me:
+🌟 About Me:
 
 ----
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Amidat a Software Engineer with 1year of exper
 
 ----
 
-##🛠️ Tech Stack
+🛠️ Tech Stack
 
 ### 💻 Programming Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-thebadge&logo=openjdk&logoColor=white)
